@@ -1,6 +1,6 @@
 ## Ludexo
 
-A website and a companion app that provide a solution to list of your games and consoles in one place.
+A website and a companion app that provides a solution to list of your games and consoles in one place.
 
 ## Statistics
 - Database:
@@ -14,3 +14,15 @@ A website and a companion app that provide a solution to list of your games and 
 
 ## Images
 
+### Website
+
+
+### Android application
+
+<img src="https://github.com/thomaspoulainconsulting/Ludexo/assets/423951/b9aed71b-f618-4845-87b3-ba1da428a281" width="400">
+
+<img src="https://github.com/thomaspoulainconsulting/Ludexo/assets/423951/247917a6-22ca-4587-88c1-26b9d565a872" width="400">
+
+<img src="https://github.com/thomaspoulainconsulting/Ludexo/assets/423951/e9b6b45d-d827-4a13-9af9-91421f4663f7" width="400">
+
+<img src="https://github.com/thomaspoulainconsulting/Ludexo/assets/423951/db8e5c3a-b927-4b66-8d55-1a2c643b3536" width="400">
