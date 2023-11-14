@@ -1,6 +1,6 @@
 ## Ludexo
 
-A website and a companion app that provides a solution to list of your games and consoles in one place.
+A website and a companion app that provides a solution to list all of your games and consoles in one place.
 
 ## Statistics
 - Database:
