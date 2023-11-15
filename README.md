@@ -26,8 +26,3 @@ A website and a companion app that provides a solution to list all of your games
 <img src="https://github.com/thomaspoulainconsulting/Ludexo/assets/423951/e9b6b45d-d827-4a13-9af9-91421f4663f7" width="300">
 
 <img src="https://github.com/thomaspoulainconsulting/Ludexo/assets/423951/db8e5c3a-b927-4b66-8d55-1a2c643b3536" width="300">
-
-### Audience
-https://comunitymediagroup.wordpress.com/2017/02/10/ludexo-enfin-une-application-digne-des-collectionneurs-de-jeux-video/
-http://obligement.free.fr/articles/ludexo.php
-https://www.youtube.com/watch?v=XkBH12a0Zuc
